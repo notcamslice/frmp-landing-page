@@ -4,7 +4,9 @@ import { motion } from "framer-motion";
 import { BackgroundGradient } from "./ui/background-gradient";
 import { Spotlight } from "./ui/spotlight";
 import { TextGenerateEffect } from "./ui/text-generate-effect";
+import { Button } from "./ui/button";
 import Image from "next/image";
+import { Discord } from "lucide-react";
 
 export function LandingHero() {
   return (
@@ -42,6 +44,12 @@ export function LandingHero() {
             transition={{ delay: 1, duration: 0.8 }}
             className="mt-12"
           >
+            <Button
+              onClick={() => window.open('https://discord.gg/gtapolicemods', '_blank')}
+              className="flex items-center gap-2 mx-auto"
+            >
+              Join our Discord
+            </Button>
           </motion.div>
         </motion.div>
       </Spotlight>
