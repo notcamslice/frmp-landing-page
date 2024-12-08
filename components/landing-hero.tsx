@@ -6,7 +6,6 @@ import { Spotlight } from "./ui/spotlight";
 import { TextGenerateEffect } from "./ui/text-generate-effect";
 import { Button } from "./ui/button";
 import Image from "next/image";
-import { Discord } from "lucide-react";
 
 export function LandingHero() {
   return (
