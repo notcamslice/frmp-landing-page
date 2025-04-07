@@ -28,3 +28,6 @@ Originally hosted on **Vercel**, this project is ideal for static hosting platfo
 ```bash
 git clone https://github.com/YOUR_USERNAME/frmp-landing-page.git
 cd frmp-landing-page
+
+Originally developed under GTAPoliceMods for the First Response Multiplayer project.
+Now open-sourced by notcamslice for anyone to use.
