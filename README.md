@@ -1,27 +1,29 @@
-# 🚨 First Response Multiplayer Landing Page
+# 🚨 First Response Multiplayer – Landing Page
 
-A clean, responsive landing page for **First Response Multiplayer (FRMP)** — originally created under GTAPoliceMods and now released to the open-source community.
-
----
-
-## 🌐 Live Preview
-
-Coming soon or [self-host it locally](#getting-started).
+A lightweight and clean landing page built for **First Response Multiplayer (FRMP)**. This was originally designed and deployed under GTAPoliceMods, and is now released to the community as a free and open-source resource.
 
 ---
 
-## 🛠 Features
+## 🧾 Overview
 
-- Lightweight, no-framework HTML/CSS/JS (or Tailwind/Bootstrap if used)
-- Fast load time & responsive design
-- Easily customizable content sections
-- Ready for Netlify, Vercel, or static hosting
+This static landing page was built to serve as the face of the FRMP project. It’s minimal, responsive, and easy to repurpose or extend for your own use.
+
+Originally hosted on **Vercel**, this project is ideal for static hosting platforms.
+
+---
+
+## ⚙️ Tech Stack
+
+- HTML5
+- CSS3 *(or Tailwind/Bootstrap, if used – update accordingly)*
+- Vanilla JavaScript *(if used)*
+- Deployed with **Vercel**
 
 ---
 
 ## 🚀 Getting Started
 
-### Clone the Repo
+### Clone the Repository
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/frmp-landing-page.git
