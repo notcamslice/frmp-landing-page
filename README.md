@@ -2,6 +2,9 @@
 
 A lightweight and clean landing page built for **First Response Multiplayer (FRMP)**. This was originally designed and deployed under GTAPoliceMods, and is now released to the community as a free and open-source resource.
 
+Originally developed under GTAPoliceMods for the First Response Multiplayer project.
+Now open-sourced by notcamslice for anyone to use.
+
 ---
 
 ## 🧾 Overview
@@ -28,6 +31,3 @@ Originally hosted on **Vercel**, this project is ideal for static hosting platfo
 ```bash
 git clone https://github.com/YOUR_USERNAME/frmp-landing-page.git
 cd frmp-landing-page
-
-Originally developed under GTAPoliceMods for the First Response Multiplayer project.
-Now open-sourced by notcamslice for anyone to use.
